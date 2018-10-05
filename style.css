@@ -1,36 +1,37 @@
-	 h1, h2, h3 {
-	margin: 0;
-            }
-
-
-        body {
-	width: 100%;
-	max-width: 1024px;
-	margin: 0 auto;
-	background-color: #D4EFDF;
-	font-size: 92.5%;
-          }
-
-        ul.a {list-style-image: url('sqpurple.gif');}
-        div {
-               width: 980px;
-               padding: 40px;
-               box-sizing: border-box;
-              
-               background-color: #F8C471;
-            }
-       div.site-footer {
-         background: #F2D7D5;
-          }
-
-          div.footer-content {
-             
-             text-align: center;
-	     padding: 3em
-             display: inline-block;
-             color : red
-             padding: 8px;
+body{
+                background-color: #D4E6F1
+              }
+      h1         {
+                     margin: auto;
+                     width: 60%;
+                     padding: 10px;
+                   }
+    h2,p {
+           text-align:left;}
+                    
+         ul {
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+              overflow: hidden;
+              background-color: #D4E6F1  ;
            }
+
+         li {
+              float:left;
+            }
+
+          li a {
+                display: block;
+                color: "SlateBlue";
+                text-align:center;
+                padding: 14px 16px;
+                text-decoration: none;
+               }
+
+          li a:hover {
+                background-color: #D4E6F1  ;
+                }
+           
               
-       
        
