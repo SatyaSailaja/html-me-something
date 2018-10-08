@@ -1,13 +1,32 @@
 body{
                 background-color: #D4E6F1
               }
-      h1         {
+      h1.hometown       {
                      margin: auto;
                      width: 60%;
                      padding: 10px;
+                     color:DodgerBlue
                    }
-    h2,p {
-           text-align:left;}
+    p.bridge {
+           text-align:left;
+           color:MediumSeaGreen;
+          }
+    h2.bridge{
+           color:Red;
+           text-align:left;
+      }
+   h2.mills{
+             color:MediumSeaGreen;
+           }
+  p.mills{
+           color:orange;
+        }
+  h2.hills{
+           color:SlateBlue;
+         }
+  p.hills{
+          color:violet;
+         }
                     
          ul {
               list-style-type: none;
@@ -33,5 +52,7 @@ body{
                 background-color: #D4E6F1  ;
                 }
            
-              
+     footer{
+             color:red;
+           }        
        
